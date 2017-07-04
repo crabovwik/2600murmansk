@@ -1,4 +1,4 @@
-# Moscow 2600 meetings
+# Murmansk 2600 meetings
 
 2600 Meetings exist as a forum for all interested in technology to meet and talk about events in technology-land, learn, and teach. Meetings are open to anyone of any age or level of expertise.
 
