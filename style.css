@@ -1,0 +1,38 @@
+/*@import url('../fgrid');*/
+
+* {border:0;font-family:inherit;font-size:1em;font-style:inherit;margin:0;outline:0;padding:0;text-decoration:none}
+
+a {color:#090;-moz-transition:color .25s linear;-o-transition:color .25s linear;-webkit-transition:color .25s linear;transition:color .25s linear}
+address,article,aside,div,footer,header,hgroup,nav,section{display:block}
+b,h1,strong{font-weight:bold}
+blockquote{border-left:.25em solid #ccc;margin:0 0 0 .25em;padding:.75em 0 .75em 1.5em}
+button{background:#000;color:#fff;height:1.5em;padding:0 1em;vertical-align:bottom}
+cite,dfn,em,i,var{font-style:italic}
+code,pre,samp{font-family:Consolas,'Lucida Console',monospace}
+dl{margin:1.5em 0}
+footer,header{background:rgba(0,0,0,.5)}
+footer{padding:1.5em 2em}
+form{background:#eee;margin:1.5em 1em;padding:.75em 1em;width: 30em}
+h1{color:#fff;font-family:'Times New Roman',Times,serif;font-size:3em;line-height:1}
+h2{font-size:1em;font-weight:normal;line-height:1.5}
+header{height:120px}
+html{background:#000;color:#ccc;font:normal 100%/1.5 Calibri,Helvetica,Arial,Verdana,sans-serif;overflow-y:scroll}
+input,select,textarea{background:#fff;border:.0625em solid #ccc}
+pre{white-space:pre}
+table{border-collapse:collapse;display:table;empty-cells:hide;margin:1.5em auto;width:100%}
+td, th { display: table-cell }
+
+header audio{height:1.5em;position:absolute;right:2em;top:1em}
+header h1{background:url('logo-192x120.png') transparent no-repeat;height:120px;overflow:hidden;width:192px}
+header h1 a{display:block;height:120px;text-indent:-999em;width:192px}
+
+a:hover{color:#0f0 !important; -webkit-transition: color .25s linear; transition: color .25s linear }
+
+a.bus{color:#036}
+a.deidee{color:#090}
+a.dinamite{color:#d05f60}
+
+#content{background:#fff;color:#333;padding:1.5em 2em;width:32em }
+#mask{left:0;bottom:0;position:fixed;right:0;top:0;z-index:-1}
+#radial{left:0;bottom:0;position:absolute;right:0;top:0;z-index:-1}
+
